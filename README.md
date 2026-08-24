@@ -94,3 +94,21 @@ Through this project, I practiced:
 ## Disclaimer
 
 This is a fictional cybersecurity risk assessment created for educational and portfolio purposes. The organization, information, risks, and recommendations are simulated and do not represent a real company or security assessment.
+
+## My Role
+
+For this portfolio project, I acted as a junior cybersecurity analyst conducting a simulated risk assessment for a fictional organization.
+
+I identified information assets, analyzed potential cybersecurity threats and vulnerabilities, evaluated likelihood and impact, prioritized risks, and recommended appropriate risk treatment measures.
+
+## Skills Demonstrated
+
+- Cybersecurity Risk Assessment
+- Risk Identification
+- Risk Analysis
+- Risk Prioritization
+- Risk Treatment
+- Security Control Recommendations
+- GRC Principles
+- Security Documentation
+- Risk-Based Cybersecurity Thinking
