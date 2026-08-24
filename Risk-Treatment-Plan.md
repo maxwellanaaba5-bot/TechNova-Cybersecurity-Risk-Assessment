@@ -34,3 +34,18 @@ These risks should receive priority because of their potential impact on sensiti
 ## Continuous Review
 
 TechNova Solutions should periodically review the effectiveness of these treatment measures. Risk levels may change as the organization's systems, business activities, and threat environment change.
+
+## Treatment Status
+
+| Risk ID | Treatment Status |
+|---|---|
+| R001 | Planned |
+| R002 | Planned |
+| R003 | Planned |
+| R004 | Planned |
+| R005 | Planned |
+| R006 | Planned |
+| R007 | Planned |
+| R008 | Planned |
+| R009 | Planned |
+| R010 | Planned |
