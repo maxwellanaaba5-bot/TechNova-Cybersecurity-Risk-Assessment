@@ -71,14 +71,16 @@ Recommended treatments include:
 
 ## Project Files
 
+## Project Files
+
 | File | Description |
 |---|---|
-| `Company-Profile.md` | Describes the fictional organization and its environment |
-| `Assets.md` | Identifies important information assets |
-| `Risk-Assessment.md` | Documents the risk assessment methodology |
-| `Risk-Register.md` | Lists identified cybersecurity risks |
-| `Risk-Treatment-Plan.md` | Documents recommended risk treatment actions |
-
+| Company-Profile.md | Describes the fictional organization and its environment |
+| Assets.md | Identifies important information assets |
+| Risk-Assessment.md | Documents the risk assessment methodology and conclusions |
+| Risk-Register.md | Lists identified cybersecurity risks |
+| Risk-Treatment-Plan.md | Documents recommended risk treatment actions and treatment status |
+| Risk-Matrix.md | Shows how likelihood and impact are used to prioritize risks |
 ## Key Learning Outcomes
 
 Through this project, I practiced:
